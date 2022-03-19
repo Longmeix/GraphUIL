@@ -1,0 +1,311 @@
+2022/03/18 05:45:49 Starting training...
+2022/03/18 05:45:55 epoch 001 loss_all 9.8306
+2022/03/18 05:45:56 Train Coverage 0.3538 | Hit 0.2596
+2022/03/18 05:45:56 Test Coverage 0.3696 | Hit 0.2705
+2022/03/18 05:46:01 epoch 002 loss_all 9.3570
+2022/03/18 05:46:02 Train Coverage 0.4278 | Hit 0.3282
+2022/03/18 05:46:02 Test Coverage 0.4282 | Hit 0.3298
+2022/03/18 05:46:07 epoch 003 loss_all 9.3336
+2022/03/18 05:46:07 Train Coverage 0.4849 | Hit 0.3754
+2022/03/18 05:46:07 Test Coverage 0.4572 | Hit 0.3591
+2022/03/18 05:46:13 epoch 004 loss_all 9.1035
+2022/03/18 05:46:13 Train Coverage 0.5228 | Hit 0.4154
+2022/03/18 05:46:13 Test Coverage 0.4802 | Hit 0.3792
+2022/03/18 05:46:18 epoch 005 loss_all 9.1023
+2022/03/18 05:46:18 Train Coverage 0.5627 | Hit 0.4514
+2022/03/18 05:46:18 Test Coverage 0.5012 | Hit 0.3987
+2022/03/18 05:46:24 epoch 006 loss_all 9.0035
+2022/03/18 05:46:24 Train Coverage 0.6045 | Hit 0.4916
+2022/03/18 05:46:24 Test Coverage 0.5196 | Hit 0.4160
+2022/03/18 05:46:30 epoch 007 loss_all 8.9274
+2022/03/18 05:46:30 Train Coverage 0.6393 | Hit 0.5275
+2022/03/18 05:46:30 Test Coverage 0.5370 | Hit 0.4344
+2022/03/18 05:46:35 epoch 008 loss_all 8.8614
+2022/03/18 05:46:35 Train Coverage 0.6753 | Hit 0.5598
+2022/03/18 05:46:35 Test Coverage 0.5480 | Hit 0.4460
+2022/03/18 05:46:41 epoch 009 loss_all 8.8280
+2022/03/18 05:46:41 Train Coverage 0.7124 | Hit 0.6010
+2022/03/18 05:46:41 Test Coverage 0.5628 | Hit 0.4628
+2022/03/18 05:46:46 epoch 010 loss_all 8.7910
+2022/03/18 05:46:46 Train Coverage 0.7443 | Hit 0.6374
+2022/03/18 05:46:46 Test Coverage 0.5785 | Hit 0.4798
+2022/03/18 05:46:52 epoch 011 loss_all 8.7354
+2022/03/18 05:46:52 Train Coverage 0.7762 | Hit 0.6674
+2022/03/18 05:46:52 Test Coverage 0.5892 | Hit 0.4909
+2022/03/18 05:46:57 epoch 012 loss_all 8.6479
+2022/03/18 05:46:57 Train Coverage 0.7988 | Hit 0.6930
+2022/03/18 05:46:57 Test Coverage 0.5951 | Hit 0.4964
+2022/03/18 05:47:03 epoch 013 loss_all 8.5981
+2022/03/18 05:47:03 Train Coverage 0.8139 | Hit 0.7157
+2022/03/18 05:47:03 Test Coverage 0.6059 | Hit 0.5103
+2022/03/18 05:47:09 epoch 014 loss_all 8.6133
+2022/03/18 05:47:09 Train Coverage 0.8321 | Hit 0.7388
+2022/03/18 05:47:09 Test Coverage 0.6157 | Hit 0.5204
+2022/03/18 05:47:14 epoch 015 loss_all 8.5050
+2022/03/18 05:47:14 Train Coverage 0.8496 | Hit 0.7566
+2022/03/18 05:47:14 Test Coverage 0.6206 | Hit 0.5275
+2022/03/18 05:47:20 epoch 016 loss_all 8.4427
+2022/03/18 05:47:20 Train Coverage 0.8614 | Hit 0.7717
+2022/03/18 05:47:20 Test Coverage 0.6220 | Hit 0.5310
+2022/03/18 05:47:25 epoch 017 loss_all 8.4543
+2022/03/18 05:47:25 Train Coverage 0.8782 | Hit 0.7916
+2022/03/18 05:47:25 Test Coverage 0.6303 | Hit 0.5398
+2022/03/18 05:47:31 epoch 018 loss_all 8.3788
+2022/03/18 05:47:31 Train Coverage 0.8868 | Hit 0.8000
+2022/03/18 05:47:31 Test Coverage 0.6307 | Hit 0.5421
+2022/03/18 05:47:36 epoch 019 loss_all 8.3192
+2022/03/18 05:47:36 Train Coverage 0.8961 | Hit 0.8173
+2022/03/18 05:47:36 Test Coverage 0.6330 | Hit 0.5462
+2022/03/18 05:47:41 epoch 020 loss_all 8.2480
+2022/03/18 05:47:42 Train Coverage 0.9059 | Hit 0.8290
+2022/03/18 05:47:42 Test Coverage 0.6403 | Hit 0.5548
+2022/03/18 05:47:47 epoch 021 loss_all 8.1806
+2022/03/18 05:47:47 Train Coverage 0.9108 | Hit 0.8382
+2022/03/18 05:47:47 Test Coverage 0.6450 | Hit 0.5572
+2022/03/18 05:47:53 epoch 022 loss_all 8.1523
+2022/03/18 05:47:53 Train Coverage 0.9199 | Hit 0.8476
+2022/03/18 05:47:53 Test Coverage 0.6489 | Hit 0.5610
+2022/03/18 05:47:58 epoch 023 loss_all 8.1276
+2022/03/18 05:47:59 Train Coverage 0.9255 | Hit 0.8596
+2022/03/18 05:47:59 Test Coverage 0.6543 | Hit 0.5677
+2022/03/18 05:48:04 epoch 024 loss_all 8.1204
+2022/03/18 05:48:04 Train Coverage 0.9320 | Hit 0.8685
+2022/03/18 05:48:04 Test Coverage 0.6559 | Hit 0.5690
+2022/03/18 05:48:09 epoch 025 loss_all 8.0455
+2022/03/18 05:48:09 Train Coverage 0.9341 | Hit 0.8732
+2022/03/18 05:48:09 Test Coverage 0.6550 | Hit 0.5697
+2022/03/18 05:48:15 epoch 026 loss_all 8.0455
+2022/03/18 05:48:15 Train Coverage 0.9408 | Hit 0.8815
+2022/03/18 05:48:15 Test Coverage 0.6559 | Hit 0.5734
+2022/03/18 05:48:20 epoch 027 loss_all 7.9898
+2022/03/18 05:48:20 Train Coverage 0.9441 | Hit 0.8900
+2022/03/18 05:48:20 Test Coverage 0.6588 | Hit 0.5775
+2022/03/18 05:48:26 epoch 028 loss_all 7.9672
+2022/03/18 05:48:26 Train Coverage 0.9464 | Hit 0.8918
+2022/03/18 05:48:26 Test Coverage 0.6602 | Hit 0.5771
+2022/03/18 05:48:30 epoch 029 loss_all 7.8898
+2022/03/18 05:48:30 Train Coverage 0.9515 | Hit 0.8954
+2022/03/18 05:48:30 Test Coverage 0.6619 | Hit 0.5808
+2022/03/18 05:48:35 epoch 030 loss_all 7.8706
+2022/03/18 05:48:36 Train Coverage 0.9502 | Hit 0.8988
+2022/03/18 05:48:36 Test Coverage 0.6568 | Hit 0.5783
+2022/03/18 05:48:40 epoch 031 loss_all 7.8595
+2022/03/18 05:48:40 Train Coverage 0.9548 | Hit 0.9045
+2022/03/18 05:48:40 Test Coverage 0.6601 | Hit 0.5797
+2022/03/18 05:48:44 epoch 032 loss_all 7.8041
+2022/03/18 05:48:44 Train Coverage 0.9560 | Hit 0.9084
+2022/03/18 05:48:44 Test Coverage 0.6570 | Hit 0.5782
+2022/03/18 05:48:48 epoch 033 loss_all 7.7333
+2022/03/18 05:48:49 Train Coverage 0.9599 | Hit 0.9130
+2022/03/18 05:48:49 Test Coverage 0.6598 | Hit 0.5809
+2022/03/18 05:48:54 epoch 034 loss_all 7.7403
+2022/03/18 05:48:54 Train Coverage 0.9599 | Hit 0.9157
+2022/03/18 05:48:54 Test Coverage 0.6590 | Hit 0.5804
+2022/03/18 05:48:58 epoch 035 loss_all 7.7048
+2022/03/18 05:48:58 Train Coverage 0.9614 | Hit 0.9189
+2022/03/18 05:48:58 Test Coverage 0.6596 | Hit 0.5817
+2022/03/18 05:49:03 epoch 036 loss_all 7.6290
+2022/03/18 05:49:04 Train Coverage 0.9649 | Hit 0.9210
+2022/03/18 05:49:04 Test Coverage 0.6610 | Hit 0.5819
+2022/03/18 05:49:09 epoch 037 loss_all 7.6824
+2022/03/18 05:49:09 Train Coverage 0.9660 | Hit 0.9259
+2022/03/18 05:49:09 Test Coverage 0.6618 | Hit 0.5859
+2022/03/18 05:49:14 epoch 038 loss_all 7.6167
+2022/03/18 05:49:14 Train Coverage 0.9630 | Hit 0.9245
+2022/03/18 05:49:14 Test Coverage 0.6617 | Hit 0.5862
+2022/03/18 05:49:20 epoch 039 loss_all 7.6815
+2022/03/18 05:49:20 Train Coverage 0.9699 | Hit 0.9294
+2022/03/18 05:49:20 Test Coverage 0.6649 | Hit 0.5849
+2022/03/18 05:49:24 epoch 040 loss_all 7.5675
+2022/03/18 05:49:24 Train Coverage 0.9692 | Hit 0.9306
+2022/03/18 05:49:24 Test Coverage 0.6652 | Hit 0.5887
+2022/03/18 05:49:30 epoch 041 loss_all 7.5518
+2022/03/18 05:49:30 Train Coverage 0.9699 | Hit 0.9358
+2022/03/18 05:49:30 Test Coverage 0.6613 | Hit 0.5867
+2022/03/18 05:49:34 epoch 042 loss_all 7.5377
+2022/03/18 05:49:34 Train Coverage 0.9704 | Hit 0.9344
+2022/03/18 05:49:34 Test Coverage 0.6624 | Hit 0.5874
+2022/03/18 05:49:39 epoch 043 loss_all 7.4672
+2022/03/18 05:49:39 Train Coverage 0.9737 | Hit 0.9386
+2022/03/18 05:49:39 Test Coverage 0.6650 | Hit 0.5884
+2022/03/18 05:49:43 epoch 044 loss_all 7.4846
+2022/03/18 05:49:43 Train Coverage 0.9749 | Hit 0.9405
+2022/03/18 05:49:43 Test Coverage 0.6673 | Hit 0.5902
+2022/03/18 05:49:48 epoch 045 loss_all 7.4366
+2022/03/18 05:49:48 Train Coverage 0.9748 | Hit 0.9424
+2022/03/18 05:49:48 Test Coverage 0.6658 | Hit 0.5891
+2022/03/18 05:49:53 epoch 046 loss_all 7.4344
+2022/03/18 05:49:53 Train Coverage 0.9765 | Hit 0.9439
+2022/03/18 05:49:53 Test Coverage 0.6607 | Hit 0.5881
+2022/03/18 05:49:57 epoch 047 loss_all 7.4811
+2022/03/18 05:49:57 Train Coverage 0.9781 | Hit 0.9432
+2022/03/18 05:49:57 Test Coverage 0.6646 | Hit 0.5890
+2022/03/18 05:50:01 epoch 048 loss_all 7.4497
+2022/03/18 05:50:01 Train Coverage 0.9765 | Hit 0.9446
+2022/03/18 05:50:01 Test Coverage 0.6594 | Hit 0.5863
+2022/03/18 05:50:06 epoch 049 loss_all 7.3864
+2022/03/18 05:50:06 Train Coverage 0.9779 | Hit 0.9476
+2022/03/18 05:50:06 Test Coverage 0.6598 | Hit 0.5874
+2022/03/18 05:50:10 epoch 050 loss_all 7.3626
+2022/03/18 05:50:10 Train Coverage 0.9769 | Hit 0.9472
+2022/03/18 05:50:10 Test Coverage 0.6589 | Hit 0.5895
+2022/03/18 05:50:14 epoch 051 loss_all 7.3513
+2022/03/18 05:50:14 Train Coverage 0.9788 | Hit 0.9473
+2022/03/18 05:50:14 Test Coverage 0.6606 | Hit 0.5859
+2022/03/18 05:50:18 epoch 052 loss_all 7.3598
+2022/03/18 05:50:18 Train Coverage 0.9814 | Hit 0.9509
+2022/03/18 05:50:18 Test Coverage 0.6615 | Hit 0.5898
+2022/03/18 05:50:23 epoch 053 loss_all 7.3288
+2022/03/18 05:50:23 Train Coverage 0.9816 | Hit 0.9538
+2022/03/18 05:50:23 Test Coverage 0.6577 | Hit 0.5864
+2022/03/18 05:50:27 epoch 054 loss_all 7.3086
+2022/03/18 05:50:27 Train Coverage 0.9814 | Hit 0.9540
+2022/03/18 05:50:27 Test Coverage 0.6610 | Hit 0.5893
+2022/03/18 05:50:31 epoch 055 loss_all 7.3299
+2022/03/18 05:50:31 Train Coverage 0.9841 | Hit 0.9560
+2022/03/18 05:50:31 Test Coverage 0.6622 | Hit 0.5909
+2022/03/18 05:50:37 epoch 056 loss_all 7.2974
+2022/03/18 05:50:37 Train Coverage 0.9837 | Hit 0.9566
+2022/03/18 05:50:37 Test Coverage 0.6628 | Hit 0.5915
+2022/03/18 05:50:42 epoch 057 loss_all 7.2712
+2022/03/18 05:50:42 Train Coverage 0.9841 | Hit 0.9565
+2022/03/18 05:50:42 Test Coverage 0.6632 | Hit 0.5906
+2022/03/18 05:50:46 epoch 058 loss_all 7.3185
+2022/03/18 05:50:47 Train Coverage 0.9856 | Hit 0.9598
+2022/03/18 05:50:47 Test Coverage 0.6627 | Hit 0.5900
+2022/03/18 05:50:51 epoch 059 loss_all 7.2491
+2022/03/18 05:50:51 Train Coverage 0.9862 | Hit 0.9590
+2022/03/18 05:50:51 Test Coverage 0.6606 | Hit 0.5862
+2022/03/18 05:50:55 epoch 060 loss_all 7.2545
+2022/03/18 05:50:55 Train Coverage 0.9879 | Hit 0.9610
+2022/03/18 05:50:55 Test Coverage 0.6631 | Hit 0.5908
+2022/03/18 05:51:00 epoch 061 loss_all 7.2843
+2022/03/18 05:51:00 Train Coverage 0.9837 | Hit 0.9574
+2022/03/18 05:51:00 Test Coverage 0.6605 | Hit 0.5885
+2022/03/18 05:51:04 epoch 062 loss_all 7.2770
+2022/03/18 05:51:04 Train Coverage 0.9869 | Hit 0.9631
+2022/03/18 05:51:04 Test Coverage 0.6596 | Hit 0.5886
+2022/03/18 05:51:08 epoch 063 loss_all 7.2585
+2022/03/18 05:51:09 Train Coverage 0.9884 | Hit 0.9643
+2022/03/18 05:51:09 Test Coverage 0.6589 | Hit 0.5875
+2022/03/18 05:51:13 epoch 064 loss_all 7.1923
+2022/03/18 05:51:13 Train Coverage 0.9872 | Hit 0.9643
+2022/03/18 05:51:13 Test Coverage 0.6576 | Hit 0.5882
+2022/03/18 05:51:17 epoch 065 loss_all 7.2115
+2022/03/18 05:51:17 Train Coverage 0.9879 | Hit 0.9654
+2022/03/18 05:51:17 Test Coverage 0.6591 | Hit 0.5881
+2022/03/18 05:51:22 epoch 066 loss_all 7.1493
+2022/03/18 05:51:22 Train Coverage 0.9886 | Hit 0.9663
+2022/03/18 05:51:22 Test Coverage 0.6584 | Hit 0.5891
+2022/03/18 05:51:26 epoch 067 loss_all 7.1161
+2022/03/18 05:51:26 Train Coverage 0.9877 | Hit 0.9652
+2022/03/18 05:51:26 Test Coverage 0.6583 | Hit 0.5881
+2022/03/18 05:51:30 epoch 068 loss_all 7.1702
+2022/03/18 05:51:31 Train Coverage 0.9881 | Hit 0.9661
+2022/03/18 05:51:31 Test Coverage 0.6593 | Hit 0.5906
+2022/03/18 05:51:35 epoch 069 loss_all 7.1379
+2022/03/18 05:51:35 Train Coverage 0.9877 | Hit 0.9674
+2022/03/18 05:51:35 Test Coverage 0.6604 | Hit 0.5899
+2022/03/18 05:51:39 epoch 070 loss_all 7.1809
+2022/03/18 05:51:40 Train Coverage 0.9916 | Hit 0.9700
+2022/03/18 05:51:40 Test Coverage 0.6545 | Hit 0.5843
+2022/03/18 05:51:44 epoch 071 loss_all 7.1015
+2022/03/18 05:51:44 Train Coverage 0.9898 | Hit 0.9692
+2022/03/18 05:51:44 Test Coverage 0.6560 | Hit 0.5860
+2022/03/18 05:51:48 epoch 072 loss_all 7.1634
+2022/03/18 05:51:48 Train Coverage 0.9904 | Hit 0.9688
+2022/03/18 05:51:48 Test Coverage 0.6567 | Hit 0.5863
+2022/03/18 05:51:52 epoch 073 loss_all 7.0824
+2022/03/18 05:51:52 Train Coverage 0.9902 | Hit 0.9699
+2022/03/18 05:51:52 Test Coverage 0.6562 | Hit 0.5867
+2022/03/18 05:51:57 epoch 074 loss_all 7.1502
+2022/03/18 05:51:57 Train Coverage 0.9891 | Hit 0.9705
+2022/03/18 05:51:57 Test Coverage 0.6571 | Hit 0.5891
+2022/03/18 05:52:01 epoch 075 loss_all 7.0728
+2022/03/18 05:52:01 Train Coverage 0.9909 | Hit 0.9709
+2022/03/18 05:52:02 Test Coverage 0.6570 | Hit 0.5864
+2022/03/18 05:52:06 epoch 076 loss_all 6.9963
+2022/03/18 05:52:06 Train Coverage 0.9914 | Hit 0.9725
+2022/03/18 05:52:06 Test Coverage 0.6580 | Hit 0.5882
+2022/03/18 05:52:10 epoch 077 loss_all 7.0625
+2022/03/18 05:52:10 Train Coverage 0.9909 | Hit 0.9721
+2022/03/18 05:52:10 Test Coverage 0.6562 | Hit 0.5847
+2022/03/18 05:52:14 epoch 078 loss_all 7.0723
+2022/03/18 05:52:15 Train Coverage 0.9912 | Hit 0.9727
+2022/03/18 05:52:15 Test Coverage 0.6563 | Hit 0.5865
+2022/03/18 05:52:19 epoch 079 loss_all 7.0858
+2022/03/18 05:52:19 Train Coverage 0.9909 | Hit 0.9714
+2022/03/18 05:52:19 Test Coverage 0.6559 | Hit 0.5868
+2022/03/18 05:52:23 epoch 080 loss_all 6.9666
+2022/03/18 05:52:23 Train Coverage 0.9914 | Hit 0.9726
+2022/03/18 05:52:23 Test Coverage 0.6546 | Hit 0.5862
+2022/03/18 05:52:28 epoch 081 loss_all 7.0260
+2022/03/18 05:52:28 Train Coverage 0.9919 | Hit 0.9732
+2022/03/18 05:52:28 Test Coverage 0.6576 | Hit 0.5862
+2022/03/18 05:52:32 epoch 082 loss_all 6.9780
+2022/03/18 05:52:32 Train Coverage 0.9909 | Hit 0.9730
+2022/03/18 05:52:32 Test Coverage 0.6547 | Hit 0.5855
+2022/03/18 05:52:37 epoch 083 loss_all 7.0046
+2022/03/18 05:52:37 Train Coverage 0.9918 | Hit 0.9732
+2022/03/18 05:52:37 Test Coverage 0.6553 | Hit 0.5849
+2022/03/18 05:52:41 epoch 084 loss_all 7.0488
+2022/03/18 05:52:41 Train Coverage 0.9925 | Hit 0.9742
+2022/03/18 05:52:41 Test Coverage 0.6551 | Hit 0.5857
+2022/03/18 05:52:46 epoch 085 loss_all 7.0498
+2022/03/18 05:52:46 Train Coverage 0.9921 | Hit 0.9749
+2022/03/18 05:52:46 Test Coverage 0.6521 | Hit 0.5837
+2022/03/18 05:52:50 epoch 086 loss_all 7.0287
+2022/03/18 05:52:50 Train Coverage 0.9944 | Hit 0.9772
+2022/03/18 05:52:50 Test Coverage 0.6544 | Hit 0.5862
+2022/03/18 05:52:54 epoch 087 loss_all 6.9098
+2022/03/18 05:52:54 Train Coverage 0.9919 | Hit 0.9759
+2022/03/18 05:52:55 Test Coverage 0.6550 | Hit 0.5856
+2022/03/18 05:52:59 epoch 088 loss_all 7.0127
+2022/03/18 05:52:59 Train Coverage 0.9935 | Hit 0.9759
+2022/03/18 05:52:59 Test Coverage 0.6517 | Hit 0.5832
+2022/03/18 05:53:03 epoch 089 loss_all 6.9904
+2022/03/18 05:53:03 Train Coverage 0.9925 | Hit 0.9764
+2022/03/18 05:53:03 Test Coverage 0.6535 | Hit 0.5854
+2022/03/18 05:53:07 epoch 090 loss_all 6.9674
+2022/03/18 05:53:07 Train Coverage 0.9937 | Hit 0.9768
+2022/03/18 05:53:07 Test Coverage 0.6562 | Hit 0.5851
+2022/03/18 05:53:12 epoch 091 loss_all 6.9491
+2022/03/18 05:53:12 Train Coverage 0.9926 | Hit 0.9776
+2022/03/18 05:53:12 Test Coverage 0.6547 | Hit 0.5853
+2022/03/18 05:53:16 epoch 092 loss_all 6.9726
+2022/03/18 05:53:16 Train Coverage 0.9932 | Hit 0.9790
+2022/03/18 05:53:16 Test Coverage 0.6542 | Hit 0.5856
+2022/03/18 05:53:21 epoch 093 loss_all 6.9783
+2022/03/18 05:53:21 Train Coverage 0.9940 | Hit 0.9790
+2022/03/18 05:53:21 Test Coverage 0.6544 | Hit 0.5838
+2022/03/18 05:53:25 epoch 094 loss_all 6.9000
+2022/03/18 05:53:25 Train Coverage 0.9939 | Hit 0.9788
+2022/03/18 05:53:25 Test Coverage 0.6591 | Hit 0.5883
+2022/03/18 05:53:29 epoch 095 loss_all 6.9386
+2022/03/18 05:53:29 Train Coverage 0.9940 | Hit 0.9796
+2022/03/18 05:53:29 Test Coverage 0.6541 | Hit 0.5861
+2022/03/18 05:53:34 epoch 096 loss_all 6.9817
+2022/03/18 05:53:34 Train Coverage 0.9951 | Hit 0.9813
+2022/03/18 05:53:34 Test Coverage 0.6559 | Hit 0.5849
+2022/03/18 05:53:38 epoch 097 loss_all 6.8758
+2022/03/18 05:53:38 Train Coverage 0.9937 | Hit 0.9798
+2022/03/18 05:53:38 Test Coverage 0.6532 | Hit 0.5846
+2022/03/18 05:53:42 epoch 098 loss_all 6.9358
+2022/03/18 05:53:43 Train Coverage 0.9947 | Hit 0.9806
+2022/03/18 05:53:43 Test Coverage 0.6559 | Hit 0.5842
+2022/03/18 05:53:47 epoch 099 loss_all 6.9431
+2022/03/18 05:53:47 Train Coverage 0.9953 | Hit 0.9807
+2022/03/18 05:53:47 Test Coverage 0.6494 | Hit 0.5799
+2022/03/18 05:53:52 epoch 100 loss_all 6.8751
+2022/03/18 05:53:52 Train Coverage 0.9946 | Hit 0.9810
+2022/03/18 05:53:52 Test Coverage 0.6489 | Hit 0.5785
+2022/03/18 05:53:52 Train Coverage@10 0.9700 | Hit@10 0.9349
+2022/03/18 05:53:52 Test Coverage@10 0.6103 | Hit@10 0.5417
+2022/03/18 05:53:52 Train Coverage@20 0.9837 | Hit@20 0.9566
+2022/03/18 05:53:52 Test Coverage@20 0.6628 | Hit@20 0.5915
+2022/03/18 05:53:52 Train Coverage@30 0.9891 | Hit@30 0.9668
+2022/03/18 05:53:52 Test Coverage@30 0.6941 | Hit@30 0.6214
+2022/03/18 05:53:52 Train Coverage@40 0.9914 | Hit@40 0.9727
+2022/03/18 05:53:53 Test Coverage@40 0.7161 | Hit@40 0.6427
+2022/03/18 05:53:53 Train Coverage@50 0.9932 | Hit@50 0.9767
+2022/03/18 05:53:53 Test Coverage@50 0.7327 | Hit@50 0.6593
