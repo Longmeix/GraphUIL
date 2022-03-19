@@ -1,5 +1,5 @@
 # GraphUIL
-Our Pytorch implementation of Graph Neural Networks for User Identity Linkage.
+Our Pytorch implementation of [Graph Neural Networks for User Identity Linkage](https://arxiv.org/pdf/1903.02174).
 
 ## 1. Requirements
 To install requirements:
@@ -13,7 +13,7 @@ pip install -r requirements.txt
               `embeds.pkl`: textual input features of two networks.
     - label/: anchor files, train_test_0.x.pkl split the training anchors at ratios range from 0.1 to 0.9.
     
-    The dataset dataDouban-Weibo is provided by the PHD strudent Siyuan Chen. If you use the data, please cite the following paper. More details refer to [INFUNE](https://github.com/hilbert9221/INFUNE).
+    The dataset Douban-Weibo is provided by the PHD student Siyuan Chen. If you use the data, please cite the following paper. More details refer to [INFUNE](https://github.com/hilbert9221/INFUNE).
    
      ```
     @inproceedings{chen2020infune,
