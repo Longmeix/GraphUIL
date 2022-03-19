@@ -31,7 +31,7 @@ percent = 99
 # ---- MLP ----
 MLP_hid = 128
 # save similarity when hit best
-sims_path = 'data/{}/{}_sims.pkl'.format(model, model)
+# sims_path = 'data/{}/{}_sims.pkl'.format(model, model)
 
 log = strftime("logs/{}_{}_{:.1f}_%m-%d_%H:%M:%S.txt".format(
         model, ''.join([s[0] for s in options.split()]), ratio
@@ -49,13 +49,16 @@ def init_args(args):
     epochs = args.epochs
     k = args.k
 
-    pickle_path = './logs'
-    if not os.path.exists(pickle_path):
-        os.mkdir(pickle_path)
+    pickle_dir = './logs'
+    if not os.path.exists(pickle_dir):
+        os.mkdir(pickle_dir)
 
     log = strftime("logs/{}_{}_{}_{:.1f}_%m-%d_%H:%M:%S.txt".format(
         model, ''.join([s[0] for s in options.split()]), k, ratio
     ), localtime())
 
-    sims_path = 'data/sims/{}_sims.pkl'.format(model)
+    sims_dir = 'data/sims'
+    if not os.path.exists(sims_dir):
+        os.mkdir(sims_dir)
+    sims_path = sims_dir + '/{}_sims.pkl'.format(model)
 
