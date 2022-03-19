@@ -29,9 +29,8 @@ pip install -r requirements.txt
 - models/: contains loss function and metric for evaluation. 
     - base.py
     - loss.py 
-    - netEncode.py: GNNs model layers.
-- UIL/
-    - GraphUIL.py: GraphUIL framework.
+    - netEncode.py: GNN layer.
+- UIL/GraphUIL.py: GraphUIL framework.
 - utils/: tool functions for processing data and logging.
 - config.py: hyperparameters.
 - main.py.
