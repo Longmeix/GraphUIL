@@ -11,7 +11,7 @@ pip install -r requirements.txt
 - data/: contains the processed data.
     - graph/: `adj_s.pkl, adj_t.pkl`: adjacency matrices of the source network and the target network.
               `embeds.pkl`: textual input features of two networks.
-    - label/: anchor files, train_test_0.x.pkl split the training anchors at ratios range from 0.1 to 0.9.
+    - label/: anchor files, train_test_0.x.pkl splits the training anchors at ratios range from 0.1 to 0.9.
     
     The dataset Douban-Weibo is provided by the PHD student Siyuan Chen. If you use the data, please cite the following paper. More details refer to [INFUNE](https://github.com/hilbert9221/INFUNE).
    
