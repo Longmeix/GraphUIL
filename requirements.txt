@@ -5,3 +5,4 @@ numpy==1.19.5
 gensim==3.8.3
 scipy==1.6.2
 pickle==4.0
+logging==0.5.1.2
